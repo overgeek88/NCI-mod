@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "elementium_aero_pickaxe",
+    "customModelName": "Normal",
+    "name": "Pioche en Elementium Aero",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 9,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 38,
+    "damageVsEntity": 7.0,
+    "usageCount": 1965,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

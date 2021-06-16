@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "elementium_electro_pickaxe",
+    "customModelName": "Normal",
+    "name": "pioche en elementium electro",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 12.5,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 28,
+    "damageVsEntity": 4.0,
+    "usageCount": 2306,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Elementium_electroIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

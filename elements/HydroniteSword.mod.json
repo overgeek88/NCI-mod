@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hydronite_sword",
+    "customModelName": "Normal",
+    "name": "Épée en Hydronite",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 16.0,
+    "attackSpeed": 1.0,
+    "enchantability": 35,
+    "damageVsEntity": 10.0,
+    "usageCount": 2072,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:HydroniteGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "HydroniteSwordLorsDunClickDroitDansLair"
+    },
+    "onCrafted": {
+      "name": "HydroniteSwordItemIsCraftedsmelted"
+    }
+  }
+}

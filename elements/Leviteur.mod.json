@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "book_6",
+    "customModelName": "Normal",
+    "name": "Leviteur",
+    "specialInfo": [
+      "\"wingardium l�viosaahahaaaa\""
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 30,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "block",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 3.5,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Ballevite"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsPlayer": {
+      "name": "LeviteurQuandUneBalleToucheUnJoueur"
+    },
+    "onBulletHitsEntity": {
+      "name": "LeviteurQuandUneBalleToucheUnJoueur"
+    }
+  }
+}

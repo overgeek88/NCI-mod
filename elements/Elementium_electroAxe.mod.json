@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "elementium_electro_axe",
+    "customModelName": "Normal",
+    "name": "hache en elementium electro",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 12.5,
+    "attackSpeed": 1.4000000000000001,
+    "enchantability": 28,
+    "damageVsEntity": 8.0,
+    "usageCount": 2283,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Elementium_electroIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "hgeruio",
+    "customModelName": "Normal",
+    "name": "Salade",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.19999999999999998,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

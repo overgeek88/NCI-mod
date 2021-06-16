@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "command",
+  "definition": {
+    "commandName": "flynci",
+    "permissionLevel": "2",
+    "onCommandExecuted": {
+      "name": "FlyadminQuandUneCommandeEstExecutee"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Fumigene",
+    "effectName": "Fumigene",
+    "icon": "fumi.png",
+    "color": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "FumigenePotionStartedapplied"
+    }
+  }
+}

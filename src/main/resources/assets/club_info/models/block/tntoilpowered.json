@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "club_info:blocks/ejszh",
+    "up": "club_info:blocks/jdn",
+    "north": "club_info:blocks/usgsh",
+    "east": "club_info:blocks/usgsh",
+    "south": "club_info:blocks/usgsh",
+    "west": "club_info:blocks/usgsh",
+    "particle": "club_info:blocks/ejszh"
+  }
+}

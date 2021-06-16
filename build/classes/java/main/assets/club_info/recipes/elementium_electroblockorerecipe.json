@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:elementium_electrooreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:elementium_electroingot",
+    "count": 9
+  }
+}

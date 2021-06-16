@@ -1,0 +1,39 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:adamantiumgem"
+    },
+    "2": {
+      "item": "club_info:adamantiumgem"
+    },
+    "3": {
+      "item": "club_info:adamantiumgem"
+    },
+    "4": {
+      "item": "club_info:adamantiumgem"
+    },
+    "5": {
+      "item": "club_info:adamantiumgem"
+    },
+    "6": {
+      "item": "club_info:adamantiumgem"
+    },
+    "7": {
+      "item": "club_info:adamantiumgem"
+    },
+    "8": {
+      "item": "club_info:adamantiumgem"
+    }
+  },
+  "result": {
+    "item": "club_info:adamantiumarmorbody",
+    "count": 1
+  }
+}

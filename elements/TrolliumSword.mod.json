@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ktd",
+    "customModelName": "Normal",
+    "name": "Trollium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 0.1,
+    "enchantability": 1,
+    "damageVsEntity": 0.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "TrolliumSwordQuandUneEntiteVivanteEstFrappeeAvecLoutil"
+    }
+  }
+}

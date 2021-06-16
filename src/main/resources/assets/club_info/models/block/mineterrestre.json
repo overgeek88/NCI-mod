@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "club_info:blocks/gag",
+    "up": "club_info:blocks/trdyuhszh",
+    "north": "club_info:blocks/grass_side",
+    "east": "club_info:blocks/grass_side",
+    "south": "club_info:blocks/grass_side",
+    "west": "club_info:blocks/grass_side",
+    "particle": "club_info:blocks/gag"
+  }
+}

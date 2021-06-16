@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:golden_sword"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:iron_sword"
+    },
+    "4": {
+      "item": "club_info:anneauvierge"
+    },
+    "5": {
+      "item": "minecraft:diamond_sword"
+    },
+    "6": {
+      "item": "minecraft:emerald"
+    },
+    "7": {
+      "item": "minecraft:stone_sword"
+    },
+    "8": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "club_info:anneaudecombat",
+    "count": 1
+  }
+}

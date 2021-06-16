@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:hydroniteoreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:hydronitegem",
+    "count": 9
+  }
+}

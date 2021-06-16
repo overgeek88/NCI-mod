@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "club_info",
+    "name": "nationci_mod",
+    "description": "NCI mod est un mod pour le serveur priver NationCI fait par D2K et Zelden0",
+    "version": "1.6.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "D2K&zelden0"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

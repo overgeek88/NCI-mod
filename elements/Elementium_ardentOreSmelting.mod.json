@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 3.5,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "lol",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Elementium_ardentOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Elementium_ardentIngot"
+    },
+    "name": "elementium_ardentoresmelting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "club_info:blocks/neqn",
+    "up": "club_info:blocks/qtgqgh",
+    "north": "club_info:blocks/q",
+    "east": "club_info:blocks/q",
+    "south": "club_info:blocks/q",
+    "west": "club_info:blocks/q",
+    "particle": "club_info:blocks/neqn"
+  }
+}

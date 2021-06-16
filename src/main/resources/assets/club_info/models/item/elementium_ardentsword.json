@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "club_info:items/elementium_ardent_sword"
+  }
+}

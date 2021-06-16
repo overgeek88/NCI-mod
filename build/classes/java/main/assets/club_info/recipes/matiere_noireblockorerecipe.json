@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:matiere_noireoreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:matiere_noiregem",
+    "count": 9
+  }
+}

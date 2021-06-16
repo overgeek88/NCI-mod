@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "fff",
+    "name": "Tara",
+    "description": "pein pein , PAinPIANPAN",
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "music": {
+      "value": "CUSTOM:tara"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

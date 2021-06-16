@@ -1,0 +1,30 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "3": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "7": {
+      "item": "club_info:elementium_aerogem"
+    }
+  },
+  "result": {
+    "item": "club_info:cyclon",
+    "count": 1
+  }
+}

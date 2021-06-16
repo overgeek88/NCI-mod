@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "1": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "2": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "3": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "4": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "5": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "6": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "7": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "8": {
+      "item": "club_info:elementium_ardentingot"
+    }
+  },
+  "result": {
+    "item": "club_info:elementium_ardentoreblock",
+    "count": 1
+  }
+}

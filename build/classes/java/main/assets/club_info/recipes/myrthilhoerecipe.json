@@ -1,0 +1,27 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:myrthilingot"
+    },
+    "1": {
+      "item": "club_info:myrthilingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "club_info:myrthilhoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "1": {
+      "item": "club_info:elementium_ardentingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "club_info:elementium_ardentsword",
+    "count": 1
+  }
+}

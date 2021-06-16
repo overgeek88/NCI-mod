@@ -1,0 +1,39 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "2": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "3": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "4": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "5": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "6": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "7": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "8": {
+      "item": "club_info:elementium_aerogem"
+    }
+  },
+  "result": {
+    "item": "club_info:elementium_aeroarmorbody",
+    "count": 1
+  }
+}

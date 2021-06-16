@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spider_eye"
+    },
+    "1": {
+      "item": "minecraft:spider_eye"
+    },
+    "2": {
+      "item": "minecraft:spider_eye"
+    },
+    "3": {
+      "item": "minecraft:spider_eye"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:spider_eye"
+    },
+    "6": {
+      "item": "minecraft:spider_eye"
+    },
+    "7": {
+      "item": "minecraft:spider_eye"
+    },
+    "8": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "club_info:poisonlivre",
+    "count": 1
+  }
+}

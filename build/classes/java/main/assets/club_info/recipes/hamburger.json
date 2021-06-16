@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bread"
+    },
+    "1": {
+      "item": "minecraft:bread"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "3": {
+      "item": "club_info:fromage"
+    },
+    "4": {
+      "item": "club_info:salade"
+    },
+    "5": {
+      "item": "club_info:fromage"
+    },
+    "6": {
+      "item": "minecraft:bread"
+    },
+    "7": {
+      "item": "minecraft:bread"
+    },
+    "8": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "club_info:burger",
+    "count": 1
+  }
+}

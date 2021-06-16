@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "vibranium_pickaxe",
+    "customModelName": "Normal",
+    "name": "Pioche en Vibranium",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 11,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 37,
+    "damageVsEntity": 8.0,
+    "usageCount": 2319,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:VibraniumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "matiere_noire_shovel",
+    "customModelName": "Normal",
+    "name": "Pelle en Matiere Noire",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 25.0,
+    "attackSpeed": 1.1,
+    "enchantability": 30,
+    "damageVsEntity": 5.0,
+    "usageCount": 3198,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

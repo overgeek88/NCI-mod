@@ -1,0 +1,39 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "2": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "3": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "4": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "5": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "6": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "7": {
+      "item": "club_info:elementium_electroingot"
+    },
+    "8": {
+      "item": "club_info:elementium_electroingot"
+    }
+  },
+  "result": {
+    "item": "club_info:elementium_electroarmorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:uraniumingot"
+    },
+    "1": {
+      "item": "club_info:uraniumingot"
+    },
+    "2": {
+      "item": "club_info:uraniumingot"
+    },
+    "3": {
+      "item": "club_info:uraniumingot"
+    },
+    "4": {
+      "item": "club_info:uraniumingot"
+    },
+    "5": {
+      "item": "club_info:uraniumingot"
+    },
+    "6": {
+      "item": "club_info:uraniumingot"
+    },
+    "7": {
+      "item": "club_info:uraniumingot"
+    },
+    "8": {
+      "item": "club_info:uraniumingot"
+    }
+  },
+  "result": {
+    "item": "club_info:uraniumoreblock",
+    "count": 1
+  }
+}

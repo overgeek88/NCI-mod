@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "club_info:items/elementium_blizaro_body"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      },
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      },
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      },
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Elementium_aeroArmor.helmet"
+    },
+    "name": "elementium_aeroarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

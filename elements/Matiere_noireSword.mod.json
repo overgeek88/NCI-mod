@@ -1,0 +1,34 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "blck_whl",
+    "customModelName": "Normal",
+    "name": "Black whole",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 20.0,
+    "attackSpeed": 0.7999999999999999,
+    "enchantability": 30,
+    "damageVsEntity": 12.0,
+    "usageCount": 3198,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "MatierenoireSwordRightClickedInAir"
+    }
+  }
+}

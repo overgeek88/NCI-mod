@@ -1,0 +1,36 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:myrthilingot"
+    },
+    "1": {
+      "item": "club_info:myrthilingot"
+    },
+    "2": {
+      "item": "club_info:myrthilingot"
+    },
+    "3": {
+      "item": "club_info:myrthilingot"
+    },
+    "5": {
+      "item": "club_info:myrthilingot"
+    },
+    "6": {
+      "item": "club_info:myrthilingot"
+    },
+    "8": {
+      "item": "club_info:myrthilingot"
+    }
+  },
+  "result": {
+    "item": "club_info:myrthilarmorlegs",
+    "count": 1
+  }
+}

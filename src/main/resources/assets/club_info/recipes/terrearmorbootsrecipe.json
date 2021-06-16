@@ -1,0 +1,30 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "club_info:terrearmorboots",
+    "count": 1
+  }
+}

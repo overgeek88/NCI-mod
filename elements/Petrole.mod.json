@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Petrole",
+    "textureStill": "stil_petrol",
+    "textureFlowing": "flow_petrol",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 2000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "onTickUpdate": {
+      "name": "PetroleUpdateTick"
+    }
+  }
+}

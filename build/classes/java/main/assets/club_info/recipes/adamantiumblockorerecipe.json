@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:adamantiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:adamantiumgem",
+    "count": 9
+  }
+}

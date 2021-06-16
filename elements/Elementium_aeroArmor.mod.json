@@ -1,0 +1,65 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "elementium_aero_head",
+    "enableBody": true,
+    "textureBody": "elementium_aero_body",
+    "enableLeggings": true,
+    "textureLeggings": "elementium_aero_leggings",
+    "enableBoots": true,
+    "textureBoots": "elementium_aero_boots",
+    "onBodyTick": {
+      "name": "ElementiumaeroArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "ElementiumaeroArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "ElementiumaeroArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "armorTextureFile": "elementium_aero",
+    "helmetName": "Elementium_aero Helmet",
+    "bodyName": "Elementium_aero Chestplate",
+    "leggingsName": "Elementium_aero Leggings",
+    "bootsName": "Elementium_aero Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 40,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 38,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Elementium_aeroGem"
+      }
+    ]
+  }
+}

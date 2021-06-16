@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Elementium_BlizaroIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_BlizaroIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_BlizaroIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Elementium_BlizaroPickaxe"
+    },
+    "name": "elementium_blizaropickaxerecipe",
+    "namespace": "mod"
+  }
+}

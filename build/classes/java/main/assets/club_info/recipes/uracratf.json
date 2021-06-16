@@ -1,0 +1,30 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "club_info:uraniumingot"
+    },
+    "3": {
+      "item": "club_info:uraniumingot"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "club_info:uraniumingot"
+    },
+    "7": {
+      "item": "club_info:uraniumingot"
+    }
+  },
+  "result": {
+    "item": "club_info:ura",
+    "count": 1
+  }
+}

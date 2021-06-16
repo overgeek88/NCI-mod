@@ -1,0 +1,26 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "2": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "3": {
+      "item": "club_info:elementium_aerogem"
+    },
+    "5": {
+      "item": "club_info:elementium_aerogem"
+    }
+  },
+  "result": {
+    "item": "club_info:elementium_aeroarmorboots",
+    "count": 1
+  }
+}

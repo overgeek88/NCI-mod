@@ -1,0 +1,26 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:uraniumingot"
+    },
+    "2": {
+      "item": "club_info:uraniumingot"
+    },
+    "3": {
+      "item": "club_info:uraniumingot"
+    },
+    "5": {
+      "item": "club_info:uraniumingot"
+    }
+  },
+  "result": {
+    "item": "club_info:uraniumarmorboots",
+    "count": 1
+  }
+}

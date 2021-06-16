@@ -1,0 +1,30 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "club_info:matiere_noiregem"
+    },
+    "3": {
+      "item": "club_info:matiere_noiregem"
+    },
+    "4": {
+      "item": "club_info:nosferatu"
+    },
+    "5": {
+      "item": "club_info:matiere_noiregem"
+    },
+    "7": {
+      "item": "club_info:matiere_noiregem"
+    }
+  },
+  "result": {
+    "item": "club_info:nosferatu",
+    "count": 1
+  }
+}

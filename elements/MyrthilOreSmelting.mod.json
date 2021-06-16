@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 3.289999999999999,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:MyrthilOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:MyrthilIngot"
+    },
+    "name": "myrthiloresmelting",
+    "namespace": "mod"
+  }
+}

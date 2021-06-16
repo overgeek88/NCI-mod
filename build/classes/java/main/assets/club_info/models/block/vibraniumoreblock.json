@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "club_info:blocks/vibranium_ore_block",
+    "particle": "club_info:blocks/vibranium_ore_block"
+  }
+}

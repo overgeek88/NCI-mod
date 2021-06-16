@@ -1,0 +1,48 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "book_1",
+    "customModelName": "Normal",
+    "name": "thoron",
+    "specialInfo": [
+      "sort invoquant la foudre"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 30,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "block",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Balldefoudr"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "TonerflecheBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "TonerflecheBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "TonerflecheBulletHitsLivingEntity"
+    }
+  }
+}

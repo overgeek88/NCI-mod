@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      },
+      {
+        "value": "CUSTOM:Elementium_ardentIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Elementium_ardentArmor.body"
+    },
+    "name": "elementium_ardentarmorbodyrecipe",
+    "namespace": "mod"
+  }
+}

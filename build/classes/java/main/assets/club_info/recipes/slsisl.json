@@ -1,0 +1,30 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:leather_boots"
+    },
+    "3": {
+      "item": "minecraft:slime"
+    },
+    "5": {
+      "item": "minecraft:slime"
+    },
+    "6": {
+      "item": "minecraft:slime"
+    },
+    "8": {
+      "item": "minecraft:slime"
+    }
+  },
+  "result": {
+    "item": "club_info:slimeboots",
+    "count": 1
+  }
+}

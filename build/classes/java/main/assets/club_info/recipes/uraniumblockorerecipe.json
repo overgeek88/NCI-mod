@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:uraniumoreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:uraniumingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:elementium_blizarooreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:elementium_blizaroingot",
+    "count": 9
+  }
+}

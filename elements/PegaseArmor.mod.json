@@ -1,0 +1,55 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "pegase_head",
+    "enableBody": false,
+    "textureBody": "pegase_body",
+    "enableLeggings": false,
+    "textureLeggings": "pegase_leggings",
+    "enableBoots": true,
+    "textureBoots": "pegase_boots",
+    "onBootsTick": {
+      "name": "PegaseArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "BUILDING_BLOCKS"
+    },
+    "armorTextureFile": "pegase",
+    "helmetName": "Pegase Helmet",
+    "bodyName": "Pegase Chestplate",
+    "leggingsName": "Pegase Leggings",
+    "bootsName": "Pegase Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 8,
+    "damageValueHelmet": 1,
+    "damageValueBody": 3,
+    "damageValueLeggings": 3,
+    "damageValueBoots": 1,
+    "enchantability": 5,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

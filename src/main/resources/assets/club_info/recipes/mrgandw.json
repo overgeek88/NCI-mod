@@ -1,0 +1,36 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:trolliumgem"
+    },
+    "1": {
+      "item": "club_info:trolliumgem"
+    },
+    "2": {
+      "item": "club_info:trolliumgem"
+    },
+    "3": {
+      "item": "club_info:trolliumgem"
+    },
+    "4": {
+      "item": "club_info:grandtrolleur"
+    },
+    "5": {
+      "item": "club_info:trolliumgem"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "club_info:mr_gameand_watch",
+    "count": 1
+  }
+}

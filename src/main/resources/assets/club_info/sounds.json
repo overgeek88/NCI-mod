@@ -1,0 +1,47 @@
+{
+  "green_hill": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "club_info:1._reen_ill_one",
+        "stream": true
+      }
+    ]
+  },
+  "divine": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "club_info:16._divine_bloodlines",
+        "stream": false
+      }
+    ]
+  },
+  "tara": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "club_info:01._theme_of_tara",
+        "stream": true
+      }
+    ]
+  },
+  "encounter": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "club_info:04_encounter",
+        "stream": true
+      }
+    ]
+  },
+  "piou": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "club_info:lasrgun_blaster_star_wars_2_id_1758_ls",
+        "stream": false
+      }
+    ]
+  }
+}

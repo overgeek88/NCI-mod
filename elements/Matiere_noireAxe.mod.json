@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "matiere_noire_axe",
+    "customModelName": "Normal",
+    "name": "Hache en Matiere Noire",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 25.0,
+    "attackSpeed": 1.0999999999999999,
+    "enchantability": 30,
+    "damageVsEntity": 6.3,
+    "usageCount": 4198,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

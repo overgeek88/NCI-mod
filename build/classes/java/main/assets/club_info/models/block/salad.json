@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "club_info:blocks/gheti",
+    "particle": "club_info:blocks/gheti"
+  }
+}

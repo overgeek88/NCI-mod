@@ -1,0 +1,26 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:hydronitegem"
+    },
+    "2": {
+      "item": "club_info:hydronitegem"
+    },
+    "3": {
+      "item": "club_info:hydronitegem"
+    },
+    "5": {
+      "item": "club_info:hydronitegem"
+    }
+  },
+  "result": {
+    "item": "club_info:hydronitearmorboots",
+    "count": 1
+  }
+}

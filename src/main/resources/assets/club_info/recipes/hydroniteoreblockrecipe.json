@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:hydronitegem"
+    },
+    "1": {
+      "item": "club_info:hydronitegem"
+    },
+    "2": {
+      "item": "club_info:hydronitegem"
+    },
+    "3": {
+      "item": "club_info:hydronitegem"
+    },
+    "4": {
+      "item": "club_info:hydronitegem"
+    },
+    "5": {
+      "item": "club_info:hydronitegem"
+    },
+    "6": {
+      "item": "club_info:hydronitegem"
+    },
+    "7": {
+      "item": "club_info:hydronitegem"
+    },
+    "8": {
+      "item": "club_info:hydronitegem"
+    }
+  },
+  "result": {
+    "item": "club_info:hydroniteoreblock",
+    "count": 1
+  }
+}

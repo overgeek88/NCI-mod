@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "club_info:items/pixel-pixelart-cadeau-de-fromage-pixelise-manger-retro"
+  }
+}

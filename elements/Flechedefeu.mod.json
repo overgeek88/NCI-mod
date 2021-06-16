@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "cocktel_molotov",
+    "customModelName": "Normal",
+    "name": "cocktel molotov",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "spear",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 3.0,
+    "bulletPower": 1.5,
+    "bulletDamage": 15.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Flechedefeu"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "s.png",
+    "onBulletHitsBlock": {
+      "name": "FlechedefeuBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "FlechedefeuBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "FlechedefeuBulletHitsLivingEntity"
+    }
+  }
+}

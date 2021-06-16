@@ -1,0 +1,26 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:elementium_blizaroingot"
+    },
+    "2": {
+      "item": "club_info:elementium_blizaroingot"
+    },
+    "3": {
+      "item": "club_info:elementium_blizaroingot"
+    },
+    "5": {
+      "item": "club_info:elementium_blizaroingot"
+    }
+  },
+  "result": {
+    "item": "club_info:elementium_blizaroarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "club_info:uraniumingot"
+    },
+    "title": {
+      "translate": "advancements.radioactif.title"
+    },
+    "description": {
+      "translate": "advancements.radioactif.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "radioactif": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "club_info:uraniumingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "club_info:bouseux"
+}

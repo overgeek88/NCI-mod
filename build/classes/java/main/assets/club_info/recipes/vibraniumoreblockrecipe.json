@@ -1,0 +1,42 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "club_info:vibraniumingot"
+    },
+    "1": {
+      "item": "club_info:vibraniumingot"
+    },
+    "2": {
+      "item": "club_info:vibraniumingot"
+    },
+    "3": {
+      "item": "club_info:vibraniumingot"
+    },
+    "4": {
+      "item": "club_info:vibraniumingot"
+    },
+    "5": {
+      "item": "club_info:vibraniumingot"
+    },
+    "6": {
+      "item": "club_info:vibraniumingot"
+    },
+    "7": {
+      "item": "club_info:vibraniumingot"
+    },
+    "8": {
+      "item": "club_info:vibraniumingot"
+    }
+  },
+  "result": {
+    "item": "club_info:vibraniumoreblock",
+    "count": 1
+  }
+}

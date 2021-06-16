@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "fff",
+    "name": "Encounter",
+    "description": "LE VOILA",
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "music": {
+      "value": "CUSTOM:encounter"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

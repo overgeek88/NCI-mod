@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Potion de l�vitation",
+    "effectName": "l�vitation",
+    "icon": "fumi.png",
+    "color": {
+      "value": -6684673,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "PotiondelevitationPotionStartedapplied"
+    }
+  }
+}

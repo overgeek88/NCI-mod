@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      },
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      },
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      },
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Matiere_noireArmor.helmet"
+    },
+    "name": "matiere_noirearmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

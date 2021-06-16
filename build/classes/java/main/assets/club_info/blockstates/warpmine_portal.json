@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "club_info:warpmine_portal_ew"
+    },
+    "axis=x": {
+      "model": "club_info:warpmine_portal_ns"
+    },
+    "inventory": {
+      "model": "club_info:warpmine_portal_ns"
+    }
+  }
+}

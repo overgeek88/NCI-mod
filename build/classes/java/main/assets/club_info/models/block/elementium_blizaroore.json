@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "club_info:blocks/elementium_blizaro_ore",
+    "particle": "club_info:blocks/elementium_blizaro_ore"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "shieldca",
+    "customModelName": "Normal",
+    "name": "Captainshield",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "stackSize": 64,
+    "enchantability": 20,
+    "useDuration": 99999,
+    "toolType": 2.0,
+    "damageCount": 10,
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 10.0,
+    "specialInfo": [
+      "Bouclier ayant appartenu a un soldat de la 2e grande guerre"
+    ],
+    "hasGlow": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

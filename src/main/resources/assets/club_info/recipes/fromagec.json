@@ -1,0 +1,16 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "club_info:fromage",
+    "count": 6
+  }
+}

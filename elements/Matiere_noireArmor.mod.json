@@ -1,0 +1,59 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "matiere_noire_head",
+    "enableBody": true,
+    "textureBody": "matiere_noire_body",
+    "enableLeggings": true,
+    "textureLeggings": "matiere_noire_leggings",
+    "enableBoots": true,
+    "textureBoots": "matiere_noire_boots",
+    "onBodyTick": {
+      "name": "MatierenoireArmorBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "armorTextureFile": "matiere_noire",
+    "helmetName": "Matiere_noire Helmet",
+    "bodyName": "Matiere_noire Chestplate",
+    "leggingsName": "Matiere_noire Leggings",
+    "bootsName": "Matiere_noire Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 10,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 34,
+    "toughness": 4.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Matiere_noireGem"
+      }
+    ]
+  }
+}

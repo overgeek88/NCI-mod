@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "ice_grenade",
+    "customModelName": "Normal",
+    "name": "grenade de glace",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NationCI"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "spear",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 2.0,
+    "bulletPower": 1.5,
+    "bulletDamage": 2.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Flechedeglace"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "qs.png",
+    "onBulletHitsBlock": {
+      "name": "FlechedeglaceBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "FlechedeglaceBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "FlechedeglaceBulletHitsLivingEntity"
+    }
+  }
+}

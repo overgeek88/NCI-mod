@@ -1,0 +1,13 @@
+{
+  "group": "club_info",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "club_info:elementium_aerooreblock"
+    }
+  ],
+  "result": {
+    "item": "club_info:elementium_aerogem",
+    "count": 9
+  }
+}
